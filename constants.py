@@ -1,0 +1,5 @@
+YANDEX_TTS_URL = "https://tts.api.cloud.yandex.net/speech/v1/tts:synthesize"
+DEFAULT_LANGUAGE = "ru-RU"
+DEFAULT_VOICE = "oksana"
+DEFAULT_SPEED = "1.0"
+DEFAULT_EMOTION = "neutral"
